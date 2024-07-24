@@ -1,4 +1,4 @@
-<div class="card-container">
+<div class="card-cont">
     <i class="fas fa-info-circle"></i>
     <div class="card" style="background-color: <?php echo $bgcolor; ?>;">
         <i style="font-size: 40px;"></i>
